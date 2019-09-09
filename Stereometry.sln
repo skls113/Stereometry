@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stereometry.Domain", "Stereometry.Domain\Stereometry.Domain.csproj", "{B10332AE-2682-400C-A5A9-12C78C74505A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stereometry.Domain.Test", "Stereometry.Domain.Test\Stereometry.Domain.Test.csproj", "{7ECADB75-BD91-4017-AABF-4D1EAFE33F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stereometry.Services", "Stereometry.Services\Stereometry.Services.csproj", "{94CE8148-AD5E-48D2-899A-A7AC1A53CF9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stereometry.Services.Test", "Stereometry.Services.Test\Stereometry.Services.Test.csproj", "{0DFFFB5C-4E3E-46AA-81B0-07FEEAE646D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B10332AE-2682-400C-A5A9-12C78C74505A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10332AE-2682-400C-A5A9-12C78C74505A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10332AE-2682-400C-A5A9-12C78C74505A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10332AE-2682-400C-A5A9-12C78C74505A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ECADB75-BD91-4017-AABF-4D1EAFE33F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ECADB75-BD91-4017-AABF-4D1EAFE33F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ECADB75-BD91-4017-AABF-4D1EAFE33F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ECADB75-BD91-4017-AABF-4D1EAFE33F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94CE8148-AD5E-48D2-899A-A7AC1A53CF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CE8148-AD5E-48D2-899A-A7AC1A53CF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CE8148-AD5E-48D2-899A-A7AC1A53CF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CE8148-AD5E-48D2-899A-A7AC1A53CF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DFFFB5C-4E3E-46AA-81B0-07FEEAE646D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DFFFB5C-4E3E-46AA-81B0-07FEEAE646D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DFFFB5C-4E3E-46AA-81B0-07FEEAE646D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DFFFB5C-4E3E-46AA-81B0-07FEEAE646D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68027AD1-2528-41B6-BF07-CDD64380D020}
+	EndGlobalSection
+EndGlobal
